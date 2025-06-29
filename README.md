@@ -62,6 +62,10 @@
 ### 📜 Certifications
 
 - **ISO 27001:2013 Lead Auditor**, 2023  
+- **Google Cybersecurity Professional Certificate V2**, 2025
+- **Google IT Support Professional Certificate V2**, 2025
+- **Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate**, 2025
+- **Microsoft Cybersecurity Analyst Professional Certificate**, 2025
 - **Fortinet Certified Associate**, 2025  
 - **Cisco Certified Ethical Hacker**, 2024  
 - **API Penetration Testing & Secure API Development**, 2024  
